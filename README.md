@@ -2,8 +2,6 @@
 <img align="center" alt="mobile-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images"/>
 <p align="justify" style="color: white !important; text-decoration: none !important">Kukoh Fatchu Rahman, a 5th-semester student in the Informatics Engineering Program at Universitas Muhammadiyah Malang, possesses a strong interest in mobile app development. Despite his solid skills in programming languages like Java, Python, and C++, as well as experience in web development using HTML, CSS, and JavaScript, his primary focus now lies in deepening his proficiency in Flutter to create innovative app solutions. Throughout his journey, Kukoh has mastered various advanced JavaScript frameworks such as React.js and has a broad understanding of PHP frameworks like Laravel and CodeIgniter 4 to build robust web solutions. Nevertheless, his dedication and enthusiasm are currently directed toward mobile app development, particularly in utilizing Flutter, with the aim of crafting dynamic and efficient applications while continually advancing within the realm of mobile app technology.</p>
 
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kukohgntg&label=Profile%20views&color=0e75b6&style=flat" alt="kukohgntg" /> </p>
 
 - 🌱 I’m currently learning **Mobile devlopment**
